@@ -1,0 +1,6 @@
+{
+    "category": "Login Portal Accurate",
+    "dork": "intitle:\"login\" OR intitle:\"log in\" OR intitle:\"member login\" OR intitle:\"admin login\" OR intitle:\"administrator login\" OR intitle:\"login page\" OR inurl:\"login\" OR inurl:\"log in\" OR inurl:\"member login\" OR inurl:\"admin login\" OR inurl:\"administrator login\" OR inurl:\"login page\"",
+    "explanation": "This dork is used to search for login portals or pages specifically on the 'logitech.com' domain. It looks for web pages with titles or URLs containing keywords related to login, such as 'login,' 'log in,' 'member login,' 'admin login,' 'administrator login,' or 'login page.' This search can help identify login pages or portals within the Logitech website."
+  }
+  

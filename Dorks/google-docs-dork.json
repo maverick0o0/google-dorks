@@ -1,0 +1,6 @@
+{
+    "category": "Google Docs",
+    "dork": "site:groups.google.com | site:docs.google.com/spreadsheets",
+    "explanation": "This dork is used to search for content related to a specific domain within Google Docs and Google Sheets. It includes searching for domain-related discussions, documents, spreadsheets, or any other content hosted on Google's platforms such as Google Groups and Google Docs. It helps in finding relevant information, collaborative documents, shared spreadsheets, or discussions related to a particular domain within the Google ecosystem."
+  }
+  

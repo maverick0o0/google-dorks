@@ -1,0 +1,6 @@
+{
+    "category": "Third-Party Code Hosting",
+    "dork": "site:http://ideone.com | site:http://codebeautify.org | site:http://codeshare.io | site:http://codepen.io | site:http://repl.it | site:http://justpaste.it | site:http://pastebin.com | site:http://jsfiddle.net | site:http://trello.com' | site:http://github.com | site:http://gitlab.com | site:http://bitbucket.org | site:http://sourcerepo.com | site:http://sourcecodeonline.com | site:http://sourceforge.net | site:http://sourcecodeprojects.com | site:http://codeproject.com | site:http://dev.to | site:http://stackoverflow.com | site:http://reddit.com | site:http://quora.com | site:http://linkedin.com | site:http://slideshare.net | site:http://speakerdeck.com",
+    "explanation": "This dork is used to search for code snippets, projects, or discussions related to a specific domain on various third-party code hosting platforms and developer communities. These platforms include popular sites like GitHub, GitLab, Bitbucket, Stack Overflow, Reddit, Quora, LinkedIn, and more. It helps in finding code samples, open-source projects, developer discussions, and other resources associated with a particular domain on external platforms."
+  }
+  
